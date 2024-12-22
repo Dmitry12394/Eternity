@@ -1,0 +1,2 @@
+# Eternity
+Знакомство с GitHub
